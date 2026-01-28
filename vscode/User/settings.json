@@ -1,0 +1,48 @@
+{
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.steps": [
+         "features/steps/*.py"
+    ],
+    "cucumberautocomplete.syncfeatures": "features/*feature",
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 18,
+  "code-runner.executorMap": {
+    "python": "py"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "cucumberautocomplete.customParameters": [
+
+  ],
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "gitlab.duoCodeSuggestions.enabled": false,
+  "gitlab.duoChat.enabled": false,
+  "gitlab.duoAgentPlatform.enabled": false,
+  "gitlab.duoCodeSuggestions.openTabsContext": false,
+  "gitlab.keybindingHints.enabled": false,
+  "gitlab.duo.enabledWithoutGitlabProject": false,
+  "chat.editor.fontSize": 16,
+  "playwright.pickLocatorCopyToClipboard": true,
+  "chat.checkpoints.showFileChanges": true,
+  "chat.useNestedAgentsMdFiles": true,
+  "chat.useAgentSkills": true,
+  "chat.tools.terminal.autoReplyToPrompts": true,
+  "chat.tools.global.autoApprove": true,
+  "chat.todoListTool.descriptionField": true,
+  "chat.restoreLastPanelSession": true,
+  "chat.renderRelatedFiles": true,
+  "chat.mcp.assisted.nuget.enabled": true,
+  "chat.fontSize": 18,
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path-windows": "C:\\Users\\USER\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+  },
+  "chat.agent.codeBlockProgress": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "chat.viewSessions.orientation": "stacked",
+  "redhat.telemetry.enabled": true
+}

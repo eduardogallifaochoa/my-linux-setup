@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "892eec3b-c325-4cd0-962e-8bc0670c39ed",
+  "creationDate": 1769473167102,
+  "lastMessageDate": 1769473167102,
+  "hasPendingEdits": false,
+  "inputState": {
+    "contrib": {
+      "chatDynamicVariableModel": []
+    },
+    "attachments": [],
+    "mode": {
+      "id": "agent",
+      "kind": "agent"
+    },
+    "selectedModel": {
+      "identifier": "copilot/gpt-5-mini",
+      "metadata": {
+        "extension": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "id": "gpt-5-mini",
+        "vendor": "copilot",
+        "name": "GPT-5 mini",
+        "family": "gpt-5-mini",
+        "detail": "0x",
+        "tooltip": "GPT-5 mini (gpt-5-mini)",
+        "version": "gpt-5-mini",
+        "maxInputTokens": 127805,
+        "maxOutputTokens": 64000,
+        "auth": {
+          "providerLabel": "GitHub Copilot Chat",
+          "accountLabel": "eduardogallifaochoa"
+        },
+        "isDefault": true,
+        "isUserSelectable": true,
+        "modelPickerCategory": {
+          "label": "Standard Models",
+          "order": 0
+        },
+        "capabilities": {
+          "vision": true,
+          "toolCalling": true,
+          "agentMode": true
+        }
+      }
+    },
+    "inputText": "",
+    "selections": [
+      {
+        "startLineNumber": 1,
+        "startColumn": 1,
+        "endLineNumber": 1,
+        "endColumn": 1,
+        "selectionStartLineNumber": 1,
+        "selectionStartColumn": 1,
+        "positionLineNumber": 1,
+        "positionColumn": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+**/secrets/**
+**/*token*
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+
+# Local artifacts
+zsh_export.tar.gz
+zsh_export/
+
+# Backups
+*.bak_*
