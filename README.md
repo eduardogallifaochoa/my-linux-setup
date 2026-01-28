@@ -19,6 +19,11 @@ cd my-linux-setup
 bash install.sh
 ```
 
+## One-liner install
+```bash
+git clone https://github.com/eduardogallifaochoa/my-linux-setup.git && cd my-linux-setup && bash install.sh
+```
+
 ## Manual steps (if needed)
 - Set default shell: `chsh -s /bin/zsh`
 - Open a new terminal or run: `exec zsh`
