@@ -43,3 +43,12 @@ git clone https://github.com/eduardogallifaochoa/my-linux-setup.git && cd my-lin
 - Copy dotfiles and zsh assets again if they changed.
 - GNOME settings:
   - `dconf dump / > gnome/dconf-settings.ini`
+
+## Quick update (this machine)
+```bash
+cd /home/eduardogallifa/Proyectos/my-linux-setup
+./scripts/export_current.sh
+git add .
+git commit -m "Update setup"
+git push
+```
