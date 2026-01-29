@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/eduardogallifa/Proyectos"
+                "folderUri": "file:///home/eduardogallifa/Proyectos/my-linux-setup"
             }
         ],
         "emptyWindows": []
@@ -14,7 +14,8 @@
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/eduardogallifa/Proyectos": "__default__profile__"
+            "file:///home/eduardogallifa/Proyectos": "__default__profile__",
+            "file:///home/eduardogallifa/Proyectos/my-linux-setup": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -50,8 +51,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/eduardogallifa/Proyectos",
-            "backupPath": "/home/eduardogallifa/.config/Code/Backups/279f5aa58fc56d77a723b7f0b61c3047",
+            "folder": "file:///home/eduardogallifa/Proyectos/my-linux-setup",
+            "backupPath": "/home/eduardogallifa/.config/Code/Backups/5b53eb03fb4c5620d5de5232b5566f9e",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -68,6 +69,10 @@
             "auxiliaryBarWidth": 447,
             "workspaces": {
                 "ac6e788da93ce6fd8ec745b95c3b93eb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "d4cadf8b8102d481d5f7a1bbb9f6f5eb": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": true
                 }

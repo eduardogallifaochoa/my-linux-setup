@@ -39,6 +39,8 @@ login
 m17n-db
 ncurses-base
 ncurses-bin
+nodejs
+npm
 open-vm-tools
 open-vm-tools-desktop
 python3-netifaces
